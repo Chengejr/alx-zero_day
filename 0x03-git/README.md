@@ -1,1 +1,1 @@
-my directory readme.md file
+i'm now alx student
